@@ -1,0 +1,1 @@
+java -jar ing_1_projet-main/Java/projet.jar | php -S localhost:8080 -t ing_1_projet-main/web
