@@ -27,8 +27,8 @@
       <input type="text" id="keywordsInput" name="keywordsInput">
     </div>
     <button class="submit" id="importButton">Analyser</button>
-    <button class="submit" id="downloadButton">Télécharger le fichier JSON</button>
-    <!-- Faire le graphique -->
+    <button class="submit" id="downloadButton" style="display: none;">Télécharger le fichier JSON</button>    
+      <!-- Faire le graphique -->
     <div class="chart-container" style=" width: 50%; margin:20px ; display:flex ; flex-direction: row;">
       <canvas id="myChart1"></canvas>
       <canvas id="myChart2"></canvas>
