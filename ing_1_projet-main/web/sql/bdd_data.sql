@@ -1,5 +1,5 @@
 -- Compte gestionnaire mdp=cy -- 
-INSERT INTO Gestionnaire VALUES ('total@gmail.com','total','total','0677389226','cy','total','2002-08-07','2002-08-17' );
+INSERT INTO Gestionnaire VALUES ('total@gmail.com','NomGestionnaire','PrenomGestionnaire','0600000000','cy','total','2023-06-01','2023-08-17' );
 
 -- Compte admin mdp=cy --
 INSERT INTO Administrateur VALUES ('peio.lou@gmail.com','Loubière','Peio','cy');
